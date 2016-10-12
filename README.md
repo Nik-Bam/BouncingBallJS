@@ -14,7 +14,7 @@ A simple JS game made for the purpose of learning Javascript
 
 ## Authors
 
-* **Nikos Bampamis** - [Nik-Bam](https://github.com/Nik-Bam)
+* **Nikos Bampamis** - [nikbam](https://github.com/nikbam)
 
 ## License
 
